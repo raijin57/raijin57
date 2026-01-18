@@ -15,9 +15,10 @@
 
 ## Статистика
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=raijin57&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raijin57&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=raijin57&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raijin57&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## Контакты
 - Telegram: **[@adulaev7](https://t.me/adulaev7)**
