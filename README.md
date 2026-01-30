@@ -17,5 +17,6 @@
 <h3 align="left">Языки и инструменты:</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></p>
 
-![Arsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=raijin57&show_icons=true)
-
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
